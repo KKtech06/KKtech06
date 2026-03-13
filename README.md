@@ -7,6 +7,7 @@ Software Development student
 Software development student currently building real-world experience through projects using HTML, CSS, and JavaScript, while working toward a future role in the tech industry
 
 * 🌍  I'm based in Sheffield
+* 🖥️  See my portfolio at [My Portfolio](http://kktech06.github.io/portfolio/)
 * ✉️  You can contact me at [Karim.mhamdi1@outlook.com](mailto:Karim.mhamdi1@outlook.com)
 * 🚀  I'm currently working on [Manga Flow](http://kktech06.github.io/Manga-webpage/)
 * 🧠  I'm currently learning JavaScript testing with Jest and improving my frontend development skills.
