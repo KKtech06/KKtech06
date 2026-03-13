@@ -8,7 +8,7 @@ Software development student currently building real-world experience through pr
 
 * 🌍  I'm based in Sheffield
 * ✉️  You can contact me at [Karim.mhamdi1@outlook.com](mailto:Karim.mhamdi1@outlook.com)
-* 🚀  I'm currently working on [Manga Flow](http://https://kktech06.github.io/Manga-webpage/)
+* 🚀  I'm currently working on [Manga Flow](http://kktech06.github.io/Manga-webpage/)
 * 🧠  I'm currently learning JavaScript testing with Jest and improving my frontend development skills.
 * 👥  I'm looking to collaborate on Open-source projects, web applications, and beginner-friendly software engineering projects
 * 💬  Ask me about My goal is to become a professional software engineer and contribute to meaningful software projects
